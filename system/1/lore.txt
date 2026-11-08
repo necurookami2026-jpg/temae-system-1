@@ -19,3 +19,7 @@ system courtship vebture argument
 Base ordainments
 
 system gen base ordainments system 1 of gombo
+
+Gombo System 1 templates
+- gombo/templates/base-ordainment.txt
+- gombo/templates/system-argument.txt

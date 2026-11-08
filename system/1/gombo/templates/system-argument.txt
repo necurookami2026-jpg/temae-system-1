@@ -1,0 +1,11 @@
+Gombo System 1 — System argument template
+
+Fictional lore · Blank template
+
+Argument label: [label]
+Related ordainment: [reference]
+Input: [input]
+Conditions: [when the argument applies]
+Minimum response: [response]
+Default: [fallback]
+Follow-on codex or system: [reference]

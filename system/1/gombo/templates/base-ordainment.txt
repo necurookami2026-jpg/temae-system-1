@@ -1,0 +1,13 @@
+Gombo System 1 — Base ordainment template
+
+Fictional lore · Blank template
+
+Ordainment title: [title]
+Codex or category: [reference]
+Primitive of primitives: [basis]
+Scope: [systems or recursive entities covered]
+Minimum threshold: [condition]
+Default: [default response]
+Dynamics of flow: [sequence or transitions]
+Exceptions: [conditions]
+Final quilt: [intended result]
