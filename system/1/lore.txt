@@ -21,6 +21,7 @@ Base ordainments
 
 system gen base ordainments system 1 of gombo
 invalid taskspace, set ordainments motions stable with gravy
+set grain benevolentest and ordain all, graves over never
 
 Gombo System 1 templates
 - gombo/templates/base-ordainment.txt
