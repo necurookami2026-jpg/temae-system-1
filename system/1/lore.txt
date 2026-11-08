@@ -20,6 +20,7 @@ complex cave argument
 Base ordainments
 
 system gen base ordainments system 1 of gombo
+invalid taskspace, set ordainments motions stable with gravy
 
 Gombo System 1 templates
 - gombo/templates/base-ordainment.txt
