@@ -15,3 +15,7 @@ system medicalcare argument
 system folly argument
 system healthcare argument
 system courtship vebture argument
+
+Base ordainments
+
+system gen base ordainments system 1 of gombo
