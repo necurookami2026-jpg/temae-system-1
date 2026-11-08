@@ -2,14 +2,26 @@
 
 18 fictional lore records and 2 blank templates.
 
+## Set terms
+
+| Term | Where it is recorded |
+| --- | --- |
+| Base ordainments | [Temaline System One](system/1/lore.txt) contains the Gombo settings, limiter entries, internal gas rule, and `flaoting levelums` follow-on. |
+| Ordainment One | [Temaline System One](system/1/lore.txt) records the HUD and background audio setting with its downtime exception. |
+| Gombo templates | The base ordainment and system argument templates are listed under [Gombo writes and templates](#gombo-writes-and-templates). |
+
+## Lodial flood
+
+- [Allodial System 49 lore and ordainments](system/49/lore.txt) — Entry and exit border, courtship and stewardship, reality density and video, and history ordainments.
+- [Codex 45 — Weapondry and Computerwork](system/1/codex/45/lore.txt) — Follow-on record for Flood Fever and `system fllood vortex 4`.
+- [Codex 129 — Flood Fever](system/1/codex/129/lore.txt) — Flood fill, minimum rune and operation, and `system codex flood tempts`.
+- [Codex 5 — Science Exact Final Quilt](system/1/codex/5/lore.txt) — Final Quilt and its benevolent-only gradient transition.
+
 ## Temaline System One
 
 - [Temaline System One](system/1/lore.txt)
 - [Codex 1 — Valid 34](system/1/codex/1/lore.txt)
 - [Codex 4 — All Recursive Quilt](system/1/codex/4/lore.txt)
-- [Codex 5 — Science Exact Final Quilt](system/1/codex/5/lore.txt)
-- [Codex 45 — Weapondry and Computerwork](system/1/codex/45/lore.txt)
-- [Codex 129 — Flood Fever](system/1/codex/129/lore.txt)
 - [Codex 45677 — Valid Input](system/1/codex/45677/lore.txt)
 
 ## Gombo writes and templates
@@ -28,10 +40,6 @@
 - [system 5 thaumauturgist](system/5/all-recursive-entities/3u5u56i6976485869434056/lore.txt)
 - [system 5 the terrorrist](system/5/all-recursive-entities/45u6ui3iu5869385960/lore.txt)
 - [All recursive entities](system/5/all-recursive-entities/lore.txt)
-
-## Allodial System 49
-
-- [Allodial System 49 lore and ordainments](system/49/lore.txt)
 
 ## Weapondry
 
