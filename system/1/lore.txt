@@ -29,3 +29,7 @@ set max hud and backgroubd audio except when downtime
 Gombo System 1 templates
 - gombo/templates/base-ordainment.txt
 - gombo/templates/system-argument.txt
+
+System One weapondry
+
+All Recursive Science Weapondry — Max Grade — ../weapondry/all-recursive-science/max-grade/lore.txt
