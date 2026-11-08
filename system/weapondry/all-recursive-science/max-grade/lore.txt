@@ -1,0 +1,25 @@
+All Recursive Science Weapondry — Max Grade
+
+Temaline System One · Fictional lore
+
+Grade: Max
+Scope: All Recursive Science
+Ordainment: Benevolent only
+
+Max Grade is awarded when a recursive system can preserve its wards, contain a breach, and restore ordinary flow across every layer it governs.
+
+Grade functions
+- Recursive ward — Each branch inherits the boundary of its parent. A breach isolates the affected branch.
+- Vortex catch — An unstable branch is held at the boundary until its return path is verified.
+- Final quilt — The system restores validated branches from their last stable state and records exceptions for review.
+
+Qualification
+1. Trace the primitive of primitives for every branch in scope.
+2. Check the minimum threshold and the benevolent-only ordainment.
+3. Demonstrate a ward, a catch, and a successful restoration in the fictional record.
+4. Hold the Max Grade designation if any branch lacks a verified return path.
+
+Related lore
+- System One Codex 45 — ../../../1/codex/45/lore.txt
+- System One Codex 5, Science Exact Final Quilt — ../../../1/codex/5/lore.txt
+- Flood Fever Codex 129 — ../../../1/codex/129/lore.txt
