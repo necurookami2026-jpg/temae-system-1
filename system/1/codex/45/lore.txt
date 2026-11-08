@@ -5,3 +5,4 @@ final computerwork system valid 45
 system weapondry valid 4566778892 catch system 1 follow on codex 45
 system codex 45 atyrany of temale my of temaline system 1
 system flood fever codex 129 — ../129/lore.txt
+codex 34 launch system 4 — ../../../4/codex/34/lore.txt
